@@ -4,7 +4,7 @@ This encryption-encode will return different result when we run and encrypt a te
 BUT.... <br/>
 You can decode the ~random~ encryption and back into your origin-text
 
-#zymenz
+# zymenz
 Of course my pen-name is Zymer not(zemetia) 
 but Thought that it was very old since I in 1st-grade of Junior Highschool 
 then I commit to change it just in GitHub
